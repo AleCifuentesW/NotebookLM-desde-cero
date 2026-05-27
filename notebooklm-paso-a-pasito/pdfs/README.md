@@ -1,6 +1,6 @@
 # PDFs descargables
 
-Coloca aquí los archivos PDF que quieras compartir en el repositorio.
+Esta carpeta contiene los PDFs descargables del proyecto.
 
 Recomendación:
 - Usa nombres simples en minúsculas y con guiones.

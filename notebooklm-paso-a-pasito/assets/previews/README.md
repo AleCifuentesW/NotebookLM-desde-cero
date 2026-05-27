@@ -1,6 +1,6 @@
 # Previews de PDFs
 
-Coloca aquí las portadas o vistas previas (`.png` o `.jpg`) de cada PDF.
+Esta carpeta contiene las portadas o vistas previas (`.png` o `.jpg`) de los PDFs del proyecto.
 
 Recomendación:
 - Usa el mismo nombre base del PDF.
