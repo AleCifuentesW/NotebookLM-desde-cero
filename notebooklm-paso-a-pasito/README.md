@@ -23,6 +23,8 @@ Recomendación: primero subir buenas fuentes, luego elegir un prompt.
 
 - `prompts/`: prompts temáticos listos para copiar y adaptar.
 - `ejemplos/`: casos ficticios de uso paso a paso.
+- `pdfs/`: PDFs descargables del proyecto.
+- `assets/previews/`: imágenes PNG o JPG de portada para cada PDF.
 - `CONTRIBUTING.md`: guía para proponer nuevos prompts.
 - `LICENSE`: licencia MIT.
 
@@ -37,6 +39,20 @@ NotebookLM ayuda a trabajar con tus fuentes, pero igual hay que revisar citas y 
 - Transformar fuentes en guías de estudio paso a paso.
 - Preparar mini clases y actividades prácticas.
 - Usar psicología del color sin saturar materiales.
+
+## Material descargable
+
+Aquí puedes publicar tus PDFs con una portada visual para que la navegación sea más clara y amigable en GitHub.
+
+[![Guía de estudio (preview)](assets/previews/guia-estudio-preview.png)](pdfs/guia-estudio.pdf)
+
+Haz clic en la imagen para abrir el PDF.
+
+[![Mini clase (preview)](assets/previews/mini-clase-preview.jpg)](pdfs/mini-clase.pdf)
+
+Haz clic en la imagen para abrir el PDF.
+
+Sugerencia: por cada PDF en `pdfs/`, agrega su imagen de portada en `assets/previews/` y mantén nombres parecidos para ubicar todo más rápido.
 
 ## Próximos pasos
 
