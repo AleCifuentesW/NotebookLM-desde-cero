@@ -1,7 +1,9 @@
-# PDFs descargables
+# Materiales en PDF
 
-Esta carpeta contiene los PDFs descargables del proyecto.
+En esta carpeta se publican los materiales descargables del proyecto en formato PDF.
 
-Recomendación:
-- Usa nombres simples en minúsculas y con guiones.
-- Ejemplo: `guia-estudio.pdf`.
+Aquí encontrarás guías, recursos y documentos listos para abrir, leer y compartir.
+
+Para mantener el repositorio ordenado:
+- Usa nombres claros y fáciles de identificar.
+- Mantén coherencia entre el nombre del PDF y su imagen de vista previa en `assets/previews/`.

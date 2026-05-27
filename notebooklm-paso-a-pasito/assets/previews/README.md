@@ -1,7 +1,9 @@
-# Previews de PDFs
+# Vistas previas de los materiales
 
-Esta carpeta contiene las portadas o vistas previas (`.png` o `.jpg`) de los PDFs del proyecto.
+En esta carpeta encontrarás las imágenes de portada de los materiales del proyecto.
 
-Recomendación:
-- Usa el mismo nombre base del PDF.
-- Ejemplo: `guia-estudio-preview.png` para `guia-estudio.pdf`.
+Cada imagen corresponde a un PDF disponible en `pdfs/` y sirve para que la navegación en GitHub sea más visual y rápida.
+
+Formato recomendado:
+- Imágenes en `.png` o `.jpg`.
+- Nombre relacionado con el PDF para identificar ambos archivos fácilmente.
