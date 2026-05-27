@@ -44,11 +44,11 @@ NotebookLM ayuda a trabajar con tus fuentes, pero igual hay que revisar citas y 
 
 Aquí puedes publicar tus PDFs con una portada visual para que la navegación sea más clara y amigable en GitHub.
 
-[![Guía de estudio (preview)](assets/previews/guia-estudio-preview.png)](pdfs/guia-estudio.pdf)
+[![Guía Mágica de NotebookLM (preview)](assets/previews/guia_magica.png)](pdfs/Guia_Magica_de_NotebookLM.pdf)
 
 Haz clic en la imagen para abrir el PDF.
 
-[![Mini clase (preview)](assets/previews/mini-clase-preview.jpg)](pdfs/mini-clase.pdf)
+[![NotebookLM Magic (preview)](assets/previews/notebooklm_magic.png)](pdfs/NotebookLM_Magic.pdf)
 
 Haz clic en la imagen para abrir el PDF.
 
